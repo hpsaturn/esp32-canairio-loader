@@ -17,4 +17,4 @@ using **ArduinoDroid app** with **OTG** cable connected to your board.
 
 ## Video step by step 
 
-[![Youtube guide](http://img.youtube.com/vi/FjfGdnTk-rc/0.jpg)](https://youtu.be/FjfGdnTk-rc)
+[![Youtube CanAirIO basic loader guide](http://img.youtube.com/vi/FjfGdnTk-rc/0.jpg)](http://www.youtube.com/watch?v=FjfGdnTk-rc "Youtube CanAirIO basic loader guide")

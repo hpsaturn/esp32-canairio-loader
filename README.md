@@ -9,12 +9,13 @@ You can run it from your **Arduino IDE** or from your **Android** phone
 using [ArduinoDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2&hl=en&gl=US)
 app (**recommended**) with a simple **OTG** cable connected to your board. (see the video below)
 
-- [ ] Please first install Arduino Json Library from Arduino Library Manager
-- [ ] Configure your board: ESP32 Dev Module or similar board
-- [ ] Select partion schema to **minimal** (OTA with 1.9Mb to app 190kbs to SPIFFS, please [see documentation](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/) for details)
+- [ ] Install the Arduino Json Library from Arduino Library Manager (ArduinoDroid or Arduino IDE)
+- [ ] Configure your board: ESP32 Dev Module or similar board with
+- [ ] Select partion schema to **minimal** ([OTA with 1.9Mb to app 190kbs to SPIFFS](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/))
 - [ ] Configure your WiFi credentials in the sketch
 - [ ] Build and upload, wait for, the last version of CanAirIO will be installed
 - [ ] (optional) see the progress on Serial console or monitor.
+- [ ] Android app guide for using the device like a [mobile or fixed air quality station](https://github.com/kike-canaries/canairio_firmware/blob/master/README.md#android-canairio-app)
 
 ## Video step by step 
 

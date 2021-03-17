@@ -11,8 +11,8 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 
 - [ ] Please first install Arduino Json Library from Arduino Library Manager
 - [ ] Configure your board: ESP32 Dev Module or similar board
-- [ ] Select partion schema to **minimal** with OTA (1.9Mb to app 190kbs to SPIFFS, [see documentation](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/) for details)
-- [ ] Configure your WiFi credentials below
+- [ ] Select partion schema to **minimal** (OTA with 1.9Mb to app 190kbs to SPIFFS, please [see documentation](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/) for details)
+- [ ] Configure your WiFi credentials in the sketch
 - [ ] Build and upload, wait for, the last version of CanAirIO will be installed
 - [ ] (optional) see the progress on Serial console or monitor.
 

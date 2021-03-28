@@ -18,6 +18,8 @@
  * - Build and upload, wait for, the last version of CanAirIO will be installed
  * - (optional) see the progress on Serial console or monitor.
  *
+ * Complete documentation and video:
+ * https://github.com/hpsaturn/esp32-canairio-loader#readme
  */
 
 /***************************************************

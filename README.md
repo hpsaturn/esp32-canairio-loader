@@ -21,6 +21,9 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 
 [![Youtube CanAirIO basic loader guide](http://img.youtube.com/vi/FjfGdnTk-rc/0.jpg)](http://www.youtube.com/watch?v=FjfGdnTk-rc "Youtube CanAirIO basic loader guide")
 
+---
+
 #  Troubleshooting
 
-We have a [Telegram group](https://t.me/canairio) for support, maybe the community can help you.
+- In Arduino IDE, some users comments that you need comment the first line `#include <Arduino.h>`
+- We have a [Telegram group](https://t.me/canairio) for support, maybe the community can help you.

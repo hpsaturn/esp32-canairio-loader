@@ -25,5 +25,5 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 
 #  Troubleshooting
 
-- In Arduino IDE, some users comments that you need comment the first line `#include <Arduino.h>`
-- We have a [Telegram group](https://t.me/canairio) for support, maybe the community can help you.
+- If don't happen anything after upload, please view the output messages in the serial monitor, maybe you have internet connection issues
+- We have a [Telegram group](https://t.me/canairio) for support, maybe the community can help you. (Spanish/English)

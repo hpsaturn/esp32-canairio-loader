@@ -1,3 +1,6 @@
+[![PlatformIO](https://github.com/hpsaturn/esp32-canairio-loader/workflows/PlatformIO/badge.svg)](https://github.com/hpsaturn/esp32-canairio-loader/actions/) ![ViewCount](https://views.whatilearened.today/views/github/hpsaturn/esp32-canairio-loader.svg) 
+
+
 # ESP32 CanAirIO Loader
 
 This project will able to upload the latest version of [CanAir.IO firmware](https://github.com/kike-canaries/canairio_firmware#canairio-firmware)
@@ -9,8 +12,9 @@ You can run it from your **Arduino IDE** or from your **Android** phone
 using [ArduinoDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2&hl=en&gl=US)
 app (**recommended**) with a simple **OTG** cable connected to your board. (see the video below)
 
-- [ ] Install the Arduino Json Library from Arduino Library Manager (ArduinoDroid or Arduino IDE)
-- [ ] Configure your board: ESP32 Dev Module or similar board with
+- [ ] Install Arduino IDE or Arduino Droid app
+- [ ] Install the Arduino Json Library v6.x from ther Library Manager
+- [ ] Configure your board: ESP32 Dev Module or similar board
 - [ ] Select partion schema to **minimal** ([OTA with 1.9Mb to app 190kbs to SPIFFS](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/))
 - [ ] Configure your WiFi credentials in the sketch
 - [ ] Build and upload, wait for, the last version of CanAirIO will be installed

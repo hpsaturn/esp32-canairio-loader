@@ -27,9 +27,11 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 
 ---
 
-#  Troubleshooting
+# Troubleshooting
 
-If don't happen anything after upload, please view the output messages in the serial monitor, maybe you have internet connection issues, for that:
+## Not happen anything after upload
+
+Please view the output messages in the serial monitor, maybe you have internet connection issues, for that:
 
 - Wait for complete upload firmware (i.e 100%)
 - Press and hold the reset button 
@@ -37,7 +39,22 @@ If don't happen anything after upload, please view the output messages in the se
 - The serial output in Arduino Droid app for example is similar like this:
 
 ![serial monitor output example](images/troubleshooting00.jpg)
+
 - The output in Arduino IDE monitor is the same.
+
+## When I try to compile have errors
+
+For example if you have the next error:
+
+![serial monitor output example](images/troubleshooting01.jpg)
+
+```cpp
+loader (1).ino:53:5: error: redefinition of 'int_payloadVersion'
+```
+
+maybe you have two or more files open in the IDE, please review the opened tabs:
+
+![serial monitor output example](images/troubleshooting02.jpg)
 
 ---
 

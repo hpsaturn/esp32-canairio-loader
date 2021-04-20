@@ -71,7 +71,7 @@ bool wifiSetup() {
         Serial.print(".");  
     }
 
-    if (connect_try == 10) {
+    if (connect_try >= 10) {
         Serial.println(" FAILED!");
         return false;
     }

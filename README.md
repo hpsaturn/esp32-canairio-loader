@@ -34,8 +34,8 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 Please view the output messages in the serial monitor, maybe you have internet connection issues, for that:
 
 - Wait for complete upload firmware (i.e 100%)
-- Press and hold the reset button 
 - Enter to serial monitor (button on top right)
+- Press and hold the reset button 
 - The serial output in Arduino Droid app for example is similar like this:
 
 ![serial monitor output example](images/troubleshooting00.jpg)

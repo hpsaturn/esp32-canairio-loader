@@ -12,7 +12,7 @@ You can run it from your **Arduino IDE** or from your **Android** phone
 using [ArduinoDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2&hl=en&gl=US)
 app (**recommended**) with a simple **OTG** cable connected to your board. (see the video below)
 
-- [ ] Install Arduino IDE or Arduino Droid app
+- [ ] [Install Arduino IDE](https://www.youtube.com/watch?v=wNtGHCrO7E4) or [Arduino Droid app](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2&hl=en&gl=US)
 - [ ] Install the Arduino Json Library v6.x from ther Library Manager
 - [ ] Configure your board: ESP32 Dev Module or similar board
 - [ ] Select partion schema to **minimal** ([OTA with 1.9Mb to app 190kbs to SPIFFS](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/))

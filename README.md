@@ -21,7 +21,7 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 - [ ] (optional) see the progress on Serial console or monitor.
 - [ ] Android app guide for using the device like a [mobile or fixed air quality station](https://github.com/kike-canaries/canairio_firmware/blob/master/README.md#android-canairio-app)
 
-## Video step by step 
+## Video step by step (Arduino Droid alternative)
 
 [![Youtube CanAirIO basic loader guide](http://img.youtube.com/vi/FjfGdnTk-rc/0.jpg)](http://www.youtube.com/watch?v=FjfGdnTk-rc "Youtube CanAirIO basic loader guide")
 

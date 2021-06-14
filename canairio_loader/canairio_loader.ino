@@ -36,6 +36,7 @@
 
 #define FLAVOR "TTGO_T7"
 
+// #define FLAVOR "TTGO_TDISPLAY"
 // #define FLAVOR "HELTEC"
 // #define FLAVOR "ESP32DEVKIT"
 // #define FLAVOR "WEMOSOLED"

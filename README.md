@@ -56,6 +56,13 @@ maybe you have two or more files open in the IDE, please review the opened tabs:
 
 ![serial monitor output example](images/troubleshooting02.jpg)
 
+## Not enough space to begin OTA
+
+If you have this error message in the output, please check the right selection of partition on your IDE:
+
+![ESP32 partition selection on IDE](images/troubleshooting03.jpg)
+
+
 ---
 
 We have a [Telegram group](https://t.me/canairio) for support, maybe the community can help you. (Spanish/English)

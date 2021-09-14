@@ -62,6 +62,14 @@ If you have this error message in the output, please check the right selection o
 
 ![ESP32 partition selection on IDE](images/troubleshooting03.jpg)
 
+## Arduino Droid only supports 64bits devices
+
+When you have a error message like this:
+
+![Arduino Droid 64bits error](images/troubleshooting04.jpg)
+
+you need change or use another Android device more updated (64bit version)
+
 
 ---
 

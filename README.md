@@ -17,6 +17,7 @@ app (**recommended**) with a simple **OTG** cable connected to your board. (see 
 - [ ] Configure your board: ESP32 Dev Module or similar board
 - [ ] Select partion schema to **minimal** ([OTA with 1.9Mb to app 190kbs to SPIFFS](https://codeblog.dotsandbrackets.com/arduino-cli-partition-scheme/))
 - [ ] Configure your WiFi credentials in the sketch
+- [ ] Choose the firmware flavor in the sketch ([board version name](https://github.com/kike-canaries/canairio_firmware#boards-supported))
 - [ ] Build and upload, wait for, the last version of CanAirIO will be installed
 - [ ] (optional) see the progress on Serial console or monitor.
 - [ ] Android app guide for using the device like a [mobile or fixed air quality station](https://github.com/kike-canaries/canairio_firmware/blob/master/README.md#android-canairio-app)
